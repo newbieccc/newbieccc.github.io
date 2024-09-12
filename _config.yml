@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "뉴비노트_^^"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/taylor.jpg"
   bio              : "뉴비의 샘플 블로그"
   location         : "South Korea"
   email            :
@@ -137,6 +137,9 @@ author:
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://youtube.com"
 
 # Site Footer
 footer:
@@ -159,6 +162,9 @@ footer:
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://youtube.com"
 
 
 # Reading Files
